@@ -1,0 +1,43 @@
+OOPS
+
+Object
+-Entity having properties and behaviours
+eg
+Person- 
+properties -name, age, address, email, phone 
+behaviours-speak,eat, sleep....
+
+Car - 
+properties--brand, model, color, year 
+behaviours--start engine, stop, apply break
+
+
+Class -
+group of similar objects
+
+
+Class
+
+properties -data members
+functions/methods - member functions
+
+all the objects created from same class have similar properties and similar functionalities
+
+class
+
+Class syntax
+class ClassName:
+    #statements
+
+Object
+
+syntax
+    objectname=ClassName()
+
+eg: Class Person:
+    #properties
+    #functions
+
+p=Person()
+
+p1=Person()
